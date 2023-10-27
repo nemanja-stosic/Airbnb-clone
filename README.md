@@ -23,7 +23,7 @@ You can check out Airbnb Clone in a web browser, but for a better experience, yo
 
 # Technologies
 
-I used React, HTML, CSS, and JavaScript to create Airbnb Clone. 
+I used React, HTML, CSS, JavaScript, and Vite to create Airbnb Clone. 
 
 
 Preview:
